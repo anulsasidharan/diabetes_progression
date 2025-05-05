@@ -35,3 +35,19 @@ To build a regression model that can predict the progression of diabetes one yea
 
 - `Dataset`: Built-in Diabetes Dataset from sklearn.datasets
 
+## 🚀 How to Run
+
+#### Clone the repository
+
+`git clone https://github.com/anulsasidharan/diabetes_progression.git`
+
+`cd diabetes_progression`
+
+#### Install dependencies
+
+`pip install -r requirements.txt`
+
+#### Run the notebook for training & evaluation
+
+`jupyter notebook Diabetes_Progression_Model.ipynb`
+
